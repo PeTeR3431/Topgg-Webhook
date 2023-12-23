@@ -33,7 +33,7 @@
 
 <ol>
   <li><strong>Clone the repository:</strong></li>
-  <pre><code>git clone https://github.com/your-username/MusicoBot.git</code></pre>
+  <pre><code>git clone https://github.com/PeTeR3431/Topgg-Webhook.git</code></pre>
 
   <li><strong>Navigate to the project directory:</strong></li>
   <pre><code>cd Topgg-Webhook</code></pre>
